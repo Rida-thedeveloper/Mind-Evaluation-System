@@ -1,0 +1,5 @@
+Player: rida, Score: 20, Estimated IQ: 140 / 160
+Player: Shayan, Score: 10, Estimated IQ: 20 / 160
+Player: Rida, Score: 0, Estimated IQ: 0 / 160
+Player: rida, Score: 0, Estimated IQ: 0 / 160
+Player: zehra, Score: 30, Estimated IQ: 60 / 160
