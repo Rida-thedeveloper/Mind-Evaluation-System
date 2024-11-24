@@ -1,0 +1,3 @@
+Player: rida, Score: 20, Estimated EQ: 140 / 150
+Player: Anummm, Score: 0, Estimated EQ: 0 / 150
+Player: Rida, Score: 10, Estimated EQ: 30 / 150
